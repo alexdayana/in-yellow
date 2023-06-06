@@ -1,0 +1,65 @@
+{
+	"IsUnderMaintenance": false,
+	"OnsignalId": "",
+	"Admob": {
+		"IsOn": false,
+		"AppId": "ca-app-pub-3940256099942544~3347511713",
+		"OpenApp": "ca-app-pub-3940256099942544/3419835294",
+		"Banner": "ca-app-pub-3940256099942544/6300978111",
+		"Inter": "ca-app-pub-3940256099942544/1033173712",
+		"Native": "ca-app-pub-3940256099942544/2247696110"
+	},
+	"Facebook": {
+		"IsOn": true,
+		"Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"Inter": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+		"Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+	},
+	"Applovin": {
+		"IsOn": false,
+		"OpenApp": "",
+		"Banner": "",
+		"Inter": "",
+		"Native": ""
+	},
+	"yandex": {
+		"IsOn": false,
+		"Banner": "R-M-DEMO-320x50",
+		"Inter": "R-M-DEMO-320x480",
+		"Native": "R-M-DEMO-native-i"
+	},
+	"Unity": {
+		"IsOn": false,
+		"AppId": "4498253",
+		"Banner": "Banner_Android",
+		"Inter": "Rewarded_Android"
+	},
+	"Guides": [{
+			"Title": "Welcome to yellow black cat ",
+			"Description": "Do you have enough playtime? Need a bit of magic in your life? Black Cat as a Spirit Totem and Power Animal can help Black Cat teaches you how to recognize the magic in your life and to be more joyful Delve deeply in Black Cat symbolism and meaning to find out how this Animal Spirit Guide can enlighten inspire and uplift you!"
+		},
+		{
+			"Title": "GUIDE 1",
+			"Description": "Black Cat Symbolism and Meaning can be a bit hard to read Throughout history these beautiful creatures have been persecuted simply because of their black color WhatIsMySpiritAnimal.com seeks to help educate folks about Black Cats The bottom line is Black Cats are just as wonderful as every other feline. They are sentient beings with personality and a huge capacity for love It’s utter nonsense to believe that Black Cats are bad omens All animal spirit guides can appear to warn us of danger but that does not make the Animal themselves bad omens It’s the whole ‘don’t shoot the messenger thing ya know."
+		},
+		{
+			"Title": "GUIDE 3",
+			"Description": "The mysterious magical Black Cat has conflicting symbolism depending on the era and culture you read about but let’s start with a little science Black Cats are not a specific breed  but simply a cat with genetically produced black fur pigmentation this seems to happen more in males than females this is the same combination of genes that gives most black cats their stunning golden eyes that seem to pierce the night.."
+		},
+
+
+
+		{
+			"Title": "GUIDE 4",
+			"Description": "Be creative with your guesses Sometimes the drawings may not be perfect so try to think creatively and come up with various possibilities when guessing the word Have fun and be respectful is a game meant for enjoyment and friendly competition Remember to be respectful to other players and avoid any offensive or inappropriate behavior."
+		},
+		{
+			"Title": "Game Information",
+			"Description": "The folklore of Black Cats seems to paint them as evil or wonderful Scotland and Ireland generally held black cats in high regard Their arrival at the home portended prosperity For a single woman owning a black cat was said to attract numerous suitors Germans say that a Black Cat walking toward you or crossing left to right grants wishes The rest of Europe was not so kind to our sable feline friend Here and in Western superstitions the Black Cat was a Witch’s familiar and represented bad luck including potential death."
+		},
+		{
+			"Title": "GUIDE 5",
+			"Description": "During the witch hunts Black Cats sometimes suffered the same dire fate as their witch companions The Cat was either a demon or even another Witch who had shapeshifted to avoid capture Felines could go where humans could not said that Cats were a link to the devi. This proclamation leads to the burning execution of over 900 Cats in France.  "
+		}
+	]
+}
